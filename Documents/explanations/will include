@@ -1,0 +1,47 @@
+
+sınav
+true positive, true negative
+recall ve precision
+
+
+datayı pandas numpy kullanarak anlat
+
+araştırma sorunu anlat
+mesela hava kirliliği nedeniyle falanca bir ilçede covid daha fazla gib
+
+ml kullanarak prediction yap
+mesela o ilçenin hava ve trafik yoğunluğunu kullanarak bir coivd bulaşma prediction, ilişki bul
+
+logistic reg
+knn
+gaussian nb
+regression
+
+
+proposalda algoritma karşılaştırması gerekiyor
+
+nufusla birleştirebilirsin
+türktelekom 4g 5g datasıyla birleştirebilirsin
+
+gelecekte doğacak ihtiyaçları predict edebiliriz
+
+classtring=>kmeans
+
+istanbulda tren hatlarının artan nüfusa göre yolcu sayıları yükünün artışı
+hipotesys => gelecekte şuanki hat kapasiteleri artmazsa yolcu kapasitesi sustain edilemeyecek
+
+https://www.kaggle.com/mlomuscio/wifi-study
+https://data.ibb.gov.tr/dataset/ibbwifi-gunluk-veri-kullanimi
+
+https://datasetsearch.research.google.com/
+
+https://github.com/ozanerturk/covid19-turkey-api
+
+dimension reduction => manifold learning
+	istiyor
+	
+eğer clustring varsa
+	sklearn ün karşılaştırma algoritmalarına bak kmeans, mean shift,...
+	
+final de 
+	yapılan mistakeleri çiz sorusu çıkar
